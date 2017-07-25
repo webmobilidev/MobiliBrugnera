@@ -7,38 +7,38 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.mobilibrugnera"
-        },
-        "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.mobilibrugnera"
-        },
-        "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.mobilibrugnera"
-        },
-        "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.mobilibrugnera"
-        },
-        "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.mobilibrugnera"
-        },
-        "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.mobilibrugnera"
-        },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.mobilibrugnera"
-        },
-        "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.mobilibrugnera"
+            "PACKAGE_NAME": "com.mobilibrugnera.mobilibrugnera"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.mobilibrugnera"
+            "PACKAGE_NAME": "com.mobilibrugnera.mobilibrugnera"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.mobilibrugnera.mobilibrugnera"
+        },
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "com.mobilibrugnera.mobilibrugnera"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.mobilibrugnera.mobilibrugnera"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.mobilibrugnera.mobilibrugnera"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.mobilibrugnera.mobilibrugnera"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.mobilibrugnera.mobilibrugnera"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.mobilibrugnera.mobilibrugnera"
         }
     },
     "dependent_plugins": {
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.mobilibrugnera"
+            "PACKAGE_NAME": "com.mobilibrugnera.mobilibrugnera"
         }
     }
 }
